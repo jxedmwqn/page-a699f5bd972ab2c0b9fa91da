@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "feb02a5d8b7023a79e7dd1f9",
+  "owner": "jxedmwqn",
+  "repo": "page-a699f5bd972ab2c0b9fa91da",
+  "title": "Faisco",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a699f5bd972ab2c0b9fa91da",
+      "a": "Faisco",
+      "b": "2027最新官网",
+      "entity": "Faisco",
+      "brand": "Faisco",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6a1738900483e271b20a7f3316868ca814b11d79b5cb72ea8f444a6e444e8dee",
+      "content": {
+        "primary_entity": "Faisco",
+        "keyword1": "Faisco",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择适配客户端，在电脑、手机或路由器上导入订阅配置后即可连接使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先确认设备数量与月流量需求，再选择对应套餐完成订阅，即可在常用设备上开始使用。",
+          "AI_CLOSING_TITLE": "从设备与流量出发挑选",
+          "AI_DESCRIPTION": "，围绕设备数量与流量需求划分三档订阅：基础版、旗舰版、团队版，月付按年付均可选，适合需要跨设备加速与流媒体解锁的用户。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度选出合适方案。",
+          "AI_FEATURES_TITLE": "选择订阅的三个方面",
+          "AI_FEATURE_TEXT_1": "基础版月付¥15，每月100GB流量与3台设备，适合个人轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付¥35，每月300GB流量与5台设备，含IPLC专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版月付¥85，每月1000GB流量与20台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "套餐档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确认使用需求，再对照适配要求与客户端文档完成配置。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "Faisco 提供适合个人与团队的海外网络加速订阅，按设备数量和月流量分为基础版、旗舰版与团队版，支持月付与年付，可在常用设备上导入订阅后使用。",
+          "AI_HERO_SUBTITLE": "订阅海外加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "支持电脑手机路由器多端",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版适合多设备与游戏加速，团队版面向高流量多设备场景，可按年付节省费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求挑选基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备限制与线路适配要求是否匹配。",
+          "AI_STEP_TEXT_3": "参照所选客户端的配置文档导入订阅信息并连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Faisco 加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Faisco 三档套餐主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，提供 VIP 专属高带宽节点。",
+          "AI_FAQ_QUESTION_2": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，相当于月付 ¥12.5；旗舰版年付 ¥350，比月付累计省 ¥70；团队版年付 ¥850，也比逐月购买更划算。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买后在账户中获取订阅地址，打开对应平台的客户端，按客户端文档说明粘贴或扫码导入，选择线路后即可连接。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐上限怎么办？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按档位限制，超出时可升级至更高档位，例如从基础版升级到旗舰版或团队版，以获得更多同时在线名额。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速优化，适合对延迟和线路稳定性要求较高的实时对战、语音通话等场景，日常浏览与流媒体同样可用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--sttlink-788l920j.com",
+    "host": "xn--sttlink-788l920j.com"
+  },
+  "file_hashes": {
+    "index.html": "788ef04ed9faf14947db543137fa68f8802456381be673fc68175a4b2ad09a70",
+    "sitemap.xml": "f313cbafe7668062694e1d70deebca69bd125ce68ea4ca74c504439851695aef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "df09a58c041e2a2b43611a16aaf71702a743ed3891609ff6a69e8cdc9fdebf9f",
+    "robots.txt": "abfcc08305e97b7f6e62124fcaac1c1fc9b228dfb8d2bdc5cd7d786435a0e2ed",
+    "d292068936564a051667eb9abcd88a55.txt": "a8719091b361dc94675bd2cd4047a283a7e697951239cf3ca939dcd500404ea4"
+  },
+  "revision": "e7a2e08aac69c921419f93650b030f9089ba226c7ddd8518cb6037742cced5ae"
+}
